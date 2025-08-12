@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi, I'm Zehra. I'm a senior studying Software Engineering at Konya Technical University. In addition to my schoolwork, I'm also working on projects and improving myself in image processing, artificial intelligence, multimodal languages, data science, and deep learning algorithms.
 
-## 🌐 Socials
+# 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zehra.kucuker_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zehra-küçüker-826494264) 
 
 # 💻 Tech Stack
