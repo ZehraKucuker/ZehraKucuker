@@ -9,8 +9,8 @@ Hi, I'm Zehra. I'm a senior studying Software Engineering at Konya Technical Uni
 
 # 📊 GitHub Stats:
 <p align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ZehraKucuker&theme=tokyonight&hide_border=false" style="height:200px; object-fit:contain;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraKucuker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:200px; object-fit:contain;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ZehraKucuker&theme=tokyonight&hide_border=false" style="height:180px; object-fit:contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraKucuker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:180px; object-fit:contain;"/>
 </p>
 
 ---
